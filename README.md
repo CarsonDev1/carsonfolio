@@ -1,6 +1,6 @@
 # devfolio
 
-<a href="https://shubhporwal.me">
+<a href="https://carsonfolio.vercel.app/">
   <img alt="devfolio" src="./public/preview.png" />
 </a>
 
@@ -14,7 +14,7 @@
 
 👨‍🎓 An eye-catching developer Portfolio, Built on NextJS, GSAP, Tailwind and React
 
-### ✨ [Live Demo](http://www.shubhporwal.me/)
+### ✨ [Live Demo](https://carsonfolio.vercel.app/)
 
 ## Getting Started
 
